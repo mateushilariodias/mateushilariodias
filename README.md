@@ -1,4 +1,4 @@
-### Olá, pessoal! 👋🏻
+### Olá, pessoal! 👋🏻.
 
 Meu nome é Mateus Dias e estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.
 
