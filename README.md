@@ -6,7 +6,7 @@ Meu nome é Mateus Dias e estou cursando Análise e Desenvolvimento de Sistemas 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateushilariodias/)
 
 ![Mateus Dias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mateushilariodias&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushilariodias&compact=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushilariodias&layout-compact&langs-count=16&theme=dracula)
 
 
 
