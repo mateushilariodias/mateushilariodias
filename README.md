@@ -8,9 +8,12 @@ Meu nome é Mateus Dias e estou cursando Análise e Desenvolvimento de Sistemas 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateushilariodias/)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateushilariodias&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushilariodias&layout=compact&theme=dracula"/>
+  <a href="https://github.com/mateushilariodias">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateushilariodias&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushilariodias&layout=compact&theme=dracula"/>
+  </a>
 </div>
+<hr/>
 
 ### Tecnologias que eu utilizo no meu dia
 
@@ -24,6 +27,7 @@ Meu nome é Mateus Dias e estou cursando Análise e Desenvolvimento de Sistemas 
   <img  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+<hr/>
 
 ### Último repositório
 - [Sistema escolar que proporciona a gestão da vida acadêmica dos alunos](https://github.com/mateushilariodias/school)
