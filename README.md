@@ -7,8 +7,10 @@ Meu nome é Mateus Dias e estou cursando Análise e Desenvolvimento de Sistemas 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5516991190429&text=Olá,%20Mateus)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateushilariodias/)
 
-![Mateus Dias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mateushilariodias&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushilariodias&layout=compact&theme=dracula)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateushilariodias&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushilariodias&layout=compact&theme=dracula"/>
+</div>
 
 ### Tecnologias que eu utilizo no meu dia
 
