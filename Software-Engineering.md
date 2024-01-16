@@ -29,6 +29,12 @@ E - Como você imagina a interação com seus visitantes? Haverá espaço para c
 E - Como você planeja manter e atualizar o conteúdo do site ao longo do tempo? Você mesmo fará as atualizações ou precisa de suporte contínuo?
     Precisarei de suporte técnico devido as altas e constantes criações de minha arte necessitarem serem espostas.
 
+## Matriz SWOT
+Forças:
+    - História e Produções Artísticas Únicas
+    - Interatividade e Engajamento
+    - Identidade Visual Coerente
+
 
 <!-- - Missão, Visão e Valor
 - Documento com as perguntas e respostas para elicitação dos requisitos
