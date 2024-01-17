@@ -34,7 +34,15 @@ Forças:
     - História e Produções Artísticas Únicas
     - Interatividade e Engajamento
     - Identidade Visual Coerente
-
+Fraquezas:
+    - Dependência de Suporte Técnico
+    - Demanda por Atualizações Constantes
+Oportunidades:
+    - Atrair Novo Público:
+    - Captação de E-mails
+    - Expansão da Presença Online:
+Ameaças:
+    - Segurança e Privacidade
 
 <!-- - Missão, Visão e Valor
 - Documento com as perguntas e respostas para elicitação dos requisitos
