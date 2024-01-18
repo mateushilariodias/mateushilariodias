@@ -44,6 +44,22 @@ Oportunidades:
 Ameaças:
     - Segurança e Privacidade
 
+## Matriz 5W2H
+What?
+    Desenvolver um site que conste obras artisticas de Mateus Hilário Dias e sua história de vida.
+Why?
+    Para a captação de novos consumidores para a sua arte.
+Where?
+    Em um site responsivel para os diversos dispositivos.
+When?
+    14 de janeiro de 2024 a 24 de março de 2024.
+Who?
+    Mateus Hilário Dias
+How?
+    Por um site que valorize elementos visuais e a interação deles com o publico que vê.
+How Much?
+    Aguardando realização das métricas.
+
 <!-- - Missão, Visão e Valor
 - Documento com as perguntas e respostas para elicitação dos requisitos
 - Matriz SWOT
