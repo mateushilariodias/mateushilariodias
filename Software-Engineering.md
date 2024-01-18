@@ -60,6 +60,11 @@ How?
 How Much?
     Aguardando realização das métricas.
 
+## BPMN
+
+## Documentação de requisitos
+https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
+
 <!-- - Missão, Visão e Valor
 - Documento com as perguntas e respostas para elicitação dos requisitos
 - Matriz SWOT
