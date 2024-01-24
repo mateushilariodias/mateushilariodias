@@ -72,6 +72,8 @@ https://drive.google.com/file/d/1iYD6Eo88vQztyVrFTdhl3qaGhp5jgO8q/view?usp=shari
 ## TAP
 https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
 
+## Diagrama de Caso de Uso
+
 <!-- - Missão, Visão e Valor
 - Documento com as perguntas e respostas para elicitação dos requisitos
 - Matriz SWOT
