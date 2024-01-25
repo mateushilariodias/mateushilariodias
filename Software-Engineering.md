@@ -73,17 +73,13 @@ https://drive.google.com/file/d/1iYD6Eo88vQztyVrFTdhl3qaGhp5jgO8q/view?usp=shari
 https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
 
 ## Diagrama de Caso de Uso
+https://drive.google.com/file/d/1YV6pX_azM_1HIYLYEcg4abM1quttECM3/view?usp=sharing
 
-<!-- - Missão, Visão e Valor
-- Documento com as perguntas e respostas para elicitação dos requisitos
-- Matriz SWOT
-- Matriz 5W2H
-- BPMN
-- Documentação de requisitos
-- EAP
-- TAP
-- Diagrama de Caso de Uso
-- Documentação de Caso de Uso
+## Documentação de Caso de Uso
+https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
+
+<!-- 
+- 
 - Diagrama de atividade (3)
 - Diagrama de máquina de estado (3)
 - Diagrama de sequencia (3)
