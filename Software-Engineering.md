@@ -81,13 +81,19 @@ https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
 ## Prototipação de telas (5)
 https://www.figma.com/file/IVAes0Icr7LfGpKfuNJf1Q/Untitled?type=design&node-id=4%3A2&mode=design&t=8MRkwfIyWdFoLDgz-1
 
+## Diagrama de atividade
+https://drive.google.com/file/d/1aDtwrDGYH8-ZAlAgNKsnWx4YidY2Kw1e/view?usp=sharing
+
+## Diagrama de máquina de estado
+https://drive.google.com/file/d/18Tw8qrdwRrlN6bxBxaY-oEbR1CnIPTgy/view?usp=sharing
+
+## Diagrama de sequencia
+https://drive.google.com/file/d/1dFIwO2LgJtf694tL4BCEQH46p_AauQBl/view?usp=sharing
+
 <!-- 
-- 
-- Diagrama de atividade (3)
-- Diagrama de máquina de estado (3)
-- Diagrama de sequencia (3)
 - Diagrama de Classe
 - Matriz de rastreabilidade (Requisitos x Regra de Negócio) +  (Requisitos x Caso de Uso)
 - Documentação de portabilidade
 - Métricas -- custo do projeto (baseado no MER/ou/DER/ou/Diagrama de classe)
-- Proposta comercial -->
+- Proposta comercial 
+-->
