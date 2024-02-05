@@ -93,6 +93,9 @@ https://drive.google.com/file/d/1dFIwO2LgJtf694tL4BCEQH46p_AauQBl/view?usp=shari
 ## Matriz de rastreabilidade (Requisitos x Regra de Negócio) +  (Requisitos x Caso de Uso)
 https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
 
+## Diagrama de Classe
+https://drive.google.com/file/d/1FolrxBwpwn5VEIwEmnSLWWtGFN5MnsdB/view?usp=sharing
+
 <!-- 
 - Diagrama de Classe
 - Documentação de portabilidade
