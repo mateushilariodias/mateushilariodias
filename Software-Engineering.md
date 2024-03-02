@@ -90,15 +90,16 @@ https://drive.google.com/file/d/18Tw8qrdwRrlN6bxBxaY-oEbR1CnIPTgy/view?usp=shari
 ## Diagrama de sequencia
 https://drive.google.com/file/d/1dFIwO2LgJtf694tL4BCEQH46p_AauQBl/view?usp=sharing
 
-## Matriz de rastreabilidade (Requisitos x Regra de Negócio) +  (Requisitos x Caso de Uso)
+## Matriz de rastreabilidade (Requisitos x Regra de Negócio) + (Requisitos x Caso de Uso)
 https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
 
 ## Diagrama de Classe
 https://drive.google.com/file/d/1FolrxBwpwn5VEIwEmnSLWWtGFN5MnsdB/view?usp=sharing
 
+## Documentação de portabilidade
+https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
+
 <!-- 
-- Diagrama de Classe
-- Documentação de portabilidade
 - Métricas -- custo do projeto (baseado no MER/ou/DER/ou/Diagrama de classe)
 - Proposta comercial 
 -->
