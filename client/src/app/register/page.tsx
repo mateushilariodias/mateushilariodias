@@ -25,7 +25,7 @@ function Register() {
             <button className="bg-black bg- hover:bg-gray-950 py-3 font-bold text-white rounded-lg">
                 <strong>Cadastrar-se</strong>
             </button>
-            <Link href="/login"><span className="text-center underline">Logar</span></Link>
+            <Link className="text-center underline" href="/login"><span>Logar</span></Link>
         </BodyForm>
     );
 }

@@ -1,7 +1,13 @@
+import AboutSection from "@/components/AboutSection";
+import HeroSection from "@/components/HeroSection";
+import HomepageHeader from "@/components/HomepageHeader";
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-    
+    <main  className="flex flex-col items-center justify-between bg-zinc-100">
+      <HomepageHeader />
+      <HeroSection />
+      <AboutSection />
     </main>
   );
 }
