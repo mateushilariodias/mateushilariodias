@@ -1,10 +1,10 @@
 
-export interface IDataCard {
+export interface IDataTextAboutSecrtion {
     id: number;
     content: string;
 }
 
-export const dataCards: IDataCard[] = [{
+export const TextAboutSecrtion: IDataTextAboutSecrtion[] = [{
     id: 0,
     content: "Mateus nasceu em 15 de setembro de 2004, em Pedregulho, SP. Um bebê albino que cresceu privado de lugares abertos para preservar a saúde da sua pele dos raios ultravioletas."
 },{
