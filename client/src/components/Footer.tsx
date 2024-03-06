@@ -21,11 +21,11 @@ function Footer() {
                     <p>© 2024 Copyright: mateushilariodias.com</p>
                 </div>
                 <div className='flex gap-2'>
-                    <SocialIcon url="https://tiktok.com/in/couetilc" className='w-8 h-8' />
-                    <SocialIcon url="https://instagram.com/in/couetilc" className='w-8 h-8' />
-                    <SocialIcon url="https://youtube.com/in/couetilc" className='w-8 h-8' />
-                    <SocialIcon url="https://linkedin.com/in/couetilc" className='w-8 h-8' />
-                    <SocialIcon url="https://github.com/in/couetilc" className='w-8 h-8' />
+                    <SocialIcon url="https://tiktok.com/in/couetilc" className='w-4 h-4' />
+                    <SocialIcon url="https://instagram.com/in/couetilc" className='w-4 h-4' />
+                    <SocialIcon url="https://youtube.com/in/couetilc" className='w-4 h-4' />
+                    <SocialIcon url="https://linkedin.com/in/couetilc" className='w-4 h-4' />
+                    <SocialIcon url="https://github.com/in/couetilc" className='w-4 h-4' />
                 </div>
             </section>
         </section>

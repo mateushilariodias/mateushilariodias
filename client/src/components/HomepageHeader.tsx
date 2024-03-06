@@ -18,9 +18,9 @@ function Header() {
                 <FaSearch />
             </div>
             <div className="hidden lg:flex lg:gap-6">
-                <button className="bg-black bg- hover:bg-gray-950 py-3 px-6 font-bold text-white rounded-lg">
+                {/* <button className="bg-black bg- hover:bg-gray-950 py-3 px-6 font-bold text-white rounded-lg">
                     <strong>Realizar Cadastro</strong>
-                </button>       
+                </button>        */}
                 <button className="bg-black bg- hover:bg-gray-950 py-3 px-6 font-bold text-white rounded-lg">
                     <strong>Realizar Login</strong>
                 </button>
