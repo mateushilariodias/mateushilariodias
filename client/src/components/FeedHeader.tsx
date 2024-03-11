@@ -3,9 +3,14 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { FaSearch } from "react-icons/fa"
 
+interface IUser{
+    userName:string;
+    userImg:string;
+}
+
 function Header() {
 
-    const [user, setUser] = useState({ userName: '', userImg: '' })
+    const [user, setUser] = useState<IUser | undefined>(undefined);
     const [showMenu, setShowMenu] = useState(false)
     const router = useRouter()
 
@@ -38,8 +43,8 @@ function Header() {
             <div className="flex gap-5 items-center text-gray-600">
                 <div className="relative" onMouseLeave={()=>setShowMenu(false)}>
                     <button className="flex gap-2 items-center" onClick={() => setShowMenu(!showMenu)}>
-                        <img className="w-10 h-10 rounded-full" src={user.userImg.length > 0 ? user.userImg : "https://img.freepik.com/free-icon/user_318-159711.jpg"} alt="Imagem do perfil" />
-                        <span className="font-bold">{user.userName}</span>
+                        <img className="w-10 h-10 rounded-full" src={user?.userImg ? user.userImg : "https://img.freepik.com/free-icon/user_318-159711.jpg"} alt="Imagem do perfil" />
+                        <span className="font-bold">{user?.userName}</span>
                     </button>
                     {showMenu && (
                         <div className="absolute flex flex-col bg-white p-4 shadow-md rounded-md gap-2 border-t whitespace-nowrap right-[-8px]">
