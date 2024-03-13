@@ -5,7 +5,7 @@ const posts = [{
     album: 'Album',
     title: 'Title',
     postDescription: 'Description',
-    image: 'Imagem'
+    image: ''
 }, {
     id:2,
     album: 'Album',
@@ -16,7 +16,7 @@ const posts = [{
 
 function FeedMain() {
     return (
-        <section className="w-full flex flex-col justify-center items-center">
+        <section className="w-full flex flex-col items-center gap-5">
             {posts.map((post, id) => {
                 return (
                     <Post post={post} key={id}/>

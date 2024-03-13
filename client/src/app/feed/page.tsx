@@ -6,7 +6,7 @@ import FeedSideBar from "@/components/FeedSideBar";
 
 function Feed() {
     return (
-        <main>
+        <main className="flex min-h-screen flex-col items-center bg-zinc-100">
             <FeedHeader />
             <div className="w-full flex justify-start pt-10 bg-zinc-100">
                 <FeedSideBar />
