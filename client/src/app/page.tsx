@@ -7,9 +7,9 @@ export default function Home() {
   return (
     <main  className="flex flex-col items-center justify-between bg-zinc-100">
       <HomepageHeader />
-      <HeroSection />
+      {/* <HeroSection />
       <AboutSection />
-      <Footer />
+      <Footer /> */}
     </main>
   );
 }
