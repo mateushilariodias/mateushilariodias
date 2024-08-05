@@ -1,105 +1,109 @@
 # mateushilariodias
 
-## Missão, Visão e Valor
-A missão do site é transmitir a história e mostrar os feitos de Mateus Hilário Dias, com a visão de atrair novas pessoas para conhecer a sua arte, trazendo como valor, a transparência e verdade dos fatos.
+## Missão, Visão e Valores
 
-## Documento com as perguntas e respostas para elicitação dos requisitos
-E = Estruturada
-S = Semi estructurada
-N = Não estructurada
+### Missão
+Transmitir a história e os feitos de Mateus Hilário Dias, proporcionando uma experiência que inspire reflexão e identificação. Nosso objetivo é motivar as pessoas a saírem da inércia e a pensarem de forma crítica.
 
-E - O que o sistema deve conter?
-    O site deve conter a minha história, além de algumas produções artísticas que eu criei.
+### Visão
+Atrair novas pessoas para conhecer a vida e a arte de Mateus Hilário Dias, expandindo o reconhecimento e a apreciação de seu legado.
 
-S - Quem poderá ver essas produções artísticas? será preciso se cadastrar?
-    Terá algumas exposições Para visitantes sem cadastros virgula mas haverá produções que apenas cadastrados e logados poderão acessar.
+### Valores
+Nosso trabalho é guiado pela transparência e pela verdade dos fatos, garantindo que o conteúdo apresentado respeite a integridade e promova a reflexão dos indivíduos.
 
-E - Quais são os principais objetivos que você espera alcançar com o site?
-    Atrair novas pessoas para prestigiar e consumir a minha arte.
+## Perguntas e Respostas da Elicitação de Requisitos
 
-E - Quem é seu público-alvo principal? Como o site pode ser projetado para atrair e engajar esse público de maneira eficaz?
-    São adolescentes e jovens. Possuir um número considerável de elementos interativos.
+### Quais são os principais objetivos do site?
 
-E - Como você gostaria que a identidade visual do site refletisse sua arte e personalidade? Há cores, estilos ou elementos específicos que são importantes para você?
-    Gostaria que a palita de cores fosse a mesma de minha identidade. Em geral, eu quero trazer um estilo mais jovial, mas que não fuja dos padrões da minha personalidade. Imagens são importantes para mim.
+**Resposta:** Os principais objetivos são transmitir a história e os feitos de Mateus Hilário Dias, inspirar reflexão e identificação, e atrair novas pessoas para conhecer sua vida e arte.
 
-E - Como você imagina a interação com seus visitantes? Haverá espaço para comentários, avaliações ou alguma forma de feedback?
-    Cada obra poderá ser avaliada e receber comentários, além de poderem ser compartilhadas. O site terá um formulário para captação de e-mails a fim de cativar os visitantes e usuários fora do software.
+### Quem é o público-alvo do site?
 
-E - Como você planeja manter e atualizar o conteúdo do site ao longo do tempo? Você mesmo fará as atualizações ou precisa de suporte contínuo?
-    Precisarei de suporte técnico devido as altas e constantes criações de minha arte necessitarem serem espostas.
+**Resposta:** O público-alvo inclui admiradores de arte crítica em geral e qualquer pessoa interessada em aprender sobre a vida e as obras de Mateus Hilário Dias.
+
+### Quais funcionalidades principais o site deve ter?
+
+**Resposta:** O site deve incluir uma biografia detalhada, uma galeria de obras, uma seção de notícias e atualizações, um blog para reflexões e artigos, e uma seção de contato.
+
+### Como será a estrutura de navegação do site?
+
+**Resposta:** A estrutura de navegação deve ser intuitiva e fácil de usar, com menus claros para biografia, obras, notícias, blog e contato. Deve haver links diretos para as principais seções na página inicial.
+
+### Quais são os requisitos de design para o site?
+
+**Resposta:** O design deve refletir a personalidade e a arte de Mateus Hilário Dias. Deve ser responsivo, adaptando-se bem a dispositivos móveis e desktops. O branco e o preto serão as cores principais, podendo utilizar diferentes tons dessas cores. Outras cores podem ser adicionadas posteriormente, dependendo de cada tema de sua obra em cada momento. Usaremos fontes não serifadas.
+
+### Que tipo de conteúdo será apresentado no site?
+
+**Resposta:** O conteúdo incluirá textos biográficos, imagens e composição/redação das obras, artigos de blog, notícias sobre eventos e exposições/apresentações, e possivelmente vídeos.
+
+### Há alguma integração necessária com outras plataformas ou redes sociais?
+
+**Resposta:** Sim, o site deve integrar-se com redes sociais como TikTok, Instagram e YouTube para facilitar o compartilhamento de conteúdo e aumentar o engajamento.
+
+### Quais são as expectativas de desempenho do site?
+
+**Resposta:** O site deve ser rápido e eficiente, com tempos de carregamento mínimos e uma experiência de usuário suave. Deve ser capaz de lidar com picos de tráfego, especialmente durante eventos ou lançamentos importantes.
+
+### Como será o processo de atualização e manutenção do site?
+
+**Resposta:** Deve haver um sistema de gerenciamento de conteúdo (CMS) que permita atualizações fáceis de texto e imagens. As atualizações devem ser realizadas regularmente para manter o site atual e relevante.
+
+### Existem considerações de segurança específicas para o site?
+
+**Resposta:** Sim, o site deve ter medidas de segurança robustas para proteção contra malware e backups regulares.
 
 ## Matriz SWOT
-Forças:
-    - História e Produções Artísticas Únicas
-    - Interatividade e Engajamento
-    - Identidade Visual Coerente
-Fraquezas:
-    - Dependência de Suporte Técnico
-    - Demanda por Atualizações Constantes
-Oportunidades:
-    - Atrair Novo Público:
-    - Captação de E-mails
-    - Expansão da Presença Online:
-Ameaças:
-    - Segurança e Privacidade
 
-## Matriz 5W2H
-What?
-    Desenvolver um site que conste obras artisticas de Mateus Hilário Dias e sua história de vida.
-Why?
-    Para a captação de novos consumidores para a sua arte.
-Where?
-    Em um site responsivel para os diversos dispositivos.
-When?
-    14 de janeiro de 2024 a 24 de março de 2024.
-Who?
-    Mateus Hilário Dias
-How?
-    Por um site que valorize elementos visuais e a interação deles com o publico que vê.
-How Much?
-    Aguardando realização das métricas.
+### Strengths (Forças)
+- **Conteúdo Inspirador, como história e produções artísticas.**
+- **Foco na Verdade e Transparência**
+- **Identidade Visual Coerente**
+- **Design Responsivo**
+- **Integração com Redes Sociais**
+- **Sistema de Gerenciamento de Conteúdo (CMS)**
 
-## BPMN
-file:///C:/Users/mateu/OneDrive/Documentos/mateushilariodias/index.html#list
+### Weaknesses (Fraquezas)
+- **Dependência de Reconhecimento Inicial**
+- **Requisitos de Segurança**
+- **Desempenho do Site**
+- **Atualização e Manutenção**
 
-## Documentação de requisitos
-https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
+### Opportunities (Oportunidades)
+- **Expansão do Reconhecimento**
+- **Engajamento nas Redes Sociais**
+- **Eventos e Lançamentos**
+- **Diversificação de Conteúdo**
 
-## EAP
-https://drive.google.com/file/d/1iYD6Eo88vQztyVrFTdhl3qaGhp5jgO8q/view?usp=sharing
+### Threats (Ameaças)
+- **Concorrência**
+- **Riscos de Segurança Cibernética**
+- **Mudanças nas Plataformas de Redes Sociais**
+- **Manutenção de Relevância**
 
-## TAP
-https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
+## 5W2H
 
-## Diagrama de Caso de Uso
-https://drive.google.com/file/d/1YV6pX_azM_1HIYLYEcg4abM1quttECM3/view?usp=sharing
+### **What (O que?)**
+Transmitir a história e os feitos de Mateus Hilário Dias, proporcionando uma experiência que inspire reflexão e identificação, através de um site que inclui biografia, galeria de obras, notícias, blog, e contato.
 
-## Documentação de Caso de Uso
-https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
+### **Why (Por que?)**
+Para motivar as pessoas a saírem da inércia e a pensarem de forma crítica, além de atrair novas pessoas para conhecer a vida e a arte de Mateus Hilário Dias, expandindo o reconhecimento e a apreciação de suas produções.
 
-## Prototipação de telas
-https://www.figma.com/file/IVAes0Icr7LfGpKfuNJf1Q/Untitled?type=design&node-id=4%3A2&mode=design&t=8MRkwfIyWdFoLDgz-1
+### **Where (Onde?)**
+Online, através de um site acessível a partir de dispositivos móveis e desktops, com integração a plataformas de redes sociais como TikTok, Instagram e YouTube.
 
-## Diagrama de atividade
-https://drive.google.com/file/d/1aDtwrDGYH8-ZAlAgNKsnWx4YidY2Kw1e/view?usp=sharing
+### **When (Quando?)**
+O projeto deve ser desenvolvido e lançado em um prazo de 3 meses (julho, agosto e setembro), com atualizações regulares após o deploy para manter o conteúdo relevante e engajante.
 
-## Diagrama de máquina de estado
-https://drive.google.com/file/d/18Tw8qrdwRrlN6bxBxaY-oEbR1CnIPTgy/view?usp=sharing
+### **Who (Quem?)**
+O público-alvo inclui admiradores de arte crítica em geral e qualquer pessoa interessada em aprender sobre a vida e as obras de Mateus Hilário Dias. A equipe responsável pelo site deve incluir desenvolvedores, designers, redatores e especialistas em segurança e manutenção de sites. Mas, inicialmente o trabalho completo será desenvolvido por Mateus Hilário Dias.
 
-## Diagrama de sequencia
-https://drive.google.com/file/d/1dFIwO2LgJtf694tL4BCEQH46p_AauQBl/view?usp=sharing
+### **How (Como?)**
+Desenvolvimento de um site responsivo e intuitivo, utilizando um sistema de gerenciamento de conteúdo (CMS) para facilitar atualizações. O site deve ter um design que reflete a personalidade e a arte de Mateus Hilário Dias, com foco em branco e preto e fontes não serifadas. Medidas de segurança robustas, incluindo proteção contra malware e backups regulares, devem ser implementadas.
 
-## Matriz de rastreabilidade (Requisitos x Regra de Negócio) + (Requisitos x Caso de Uso)
-https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
+### **How Much (Quanto?)**
+Os custos podem incluir desenvolvimento web, design gráfico, hospedagem, domínio, segurança cibernética, manutenção e marketing digital. É necessário elaborar um orçamento detalhado considerando todas essas áreas para garantir a viabilidade financeira do projeto. (Cálculos de custos a serem realizados futuramente.)
 
-## Diagrama de Classe
-https://drive.google.com/file/d/1FolrxBwpwn5VEIwEmnSLWWtGFN5MnsdB/view?usp=sharing
+--------------
 
-## Documentação de portabilidade
-https://1drv.ms/w/s!Agro_RtXOKkHgfJucfSC9CwBh456bQ?e=XNnNV7
-
-<!-- 
-- Métricas -- custo do projeto (baseado no MER/ou/DER/ou/Diagrama de classe)
-- Proposta comercial 
--->
+### Em breve, mais artefatos... ###
