@@ -2,7 +2,6 @@ import Link from "next/link";
 import { GoArrowDown } from "react-icons/go";
 
 function HeroSection() {
-
     return (
         <section className="pt-8 pb-10 px-4 lg:pt-20 lg:pb-8 lg:px-16 xl:px-40 bg-black text-white">
             <article className="lg:flex lg:flex-row">
