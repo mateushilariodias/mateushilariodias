@@ -5,7 +5,7 @@ import Link from "next/link";
 function Footer() {
 
     return (
-        <footer className="bg-black text-white flex flex-col justify-center items-center w-full">
+        <footer className="bg-black text-gray-50 flex flex-col justify-center items-center w-full">
             <section className="flex flex-row justify-between py-3 lg:py-4 px-4 lg:px-16 xl:px-40 w-full">
                 <nav className="flex-col gap-4 text-xl">
                     <h3 className="font-bold pb-3">Sites</h3>
