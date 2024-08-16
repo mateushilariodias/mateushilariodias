@@ -9,7 +9,7 @@ function Header() {
     const [showSearch, setShowSearch] = useState(false);
 
     return (
-        <header className="flex flex-row justify-between items-center w-full py-3 lg:py-4 px-4 lg:px-16 xl:px-28">
+        <header className="flex flex-row justify-between items-center w-full py-3 lg:py-4 px-4 lg:px-16 xl:px-40">
             <div className="flex flex-row justify-center items-center gap-6">
                 <img src="/images/logo_mateushilariodias.png" className="h-9 w-10 lg:h-auto lg:w-auto" alt="logo de mateushilariodias" />
                 <div className="text-black">
