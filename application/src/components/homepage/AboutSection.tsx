@@ -4,7 +4,8 @@ import Link from "next/link";
 
 export default function AboutSection() {
     return (
-        <section id="aboutSection" className="w-full bg-gray-50 text-gray-900 pb-12 lg:pb-20">
+        <section id="aboutSection" className="w-full relative z-20 bg-gray-50 text-gray-900 pb-12 lg:pb-20">
+            <img src="/images/logo_mateushilariodias_background.png" className="absolute z-10 opacity-5 hidden lg:flex items-center justify-center w-full" alt="logo de mateushilariodias" />
             <h2 className="font-bold text-center text-base lg:text-3xl pt-10 lg:pt-20 pb-4 lg:pb-6">
                 Um pouco sobre<br />Mateus Hilário Dias
             </h2>
@@ -20,9 +21,9 @@ export default function AboutSection() {
                 </p>
             </div>
             <div className="flex flex-row justify-center items-center">
-            <Link href="" className="bg-black py-3 px-10 lg:py-4 lg:px-16 font-bold text-white rounded-xl text-base lg:text-xl text-center">
-                <strong>Acessar autobiografia</strong>
-            </Link>
+                <Link href="" className="bg-black py-3 px-10 lg:py-4 lg:px-16 font-bold text-white rounded-xl text-base lg:text-xl text-center">
+                    <strong>Acessar autobiografia</strong>
+                </Link>
             </div>
         </section>
     );

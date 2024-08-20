@@ -1,3 +1,4 @@
+import Agenda from "@/components/common/Agenda";
 import Footer from "@/components/common/Footer";
 import Header from "@/components/common/Header";
 import AboutSection from "@/components/homepage/AboutSection";
@@ -13,6 +14,7 @@ export default function Home() {
       <AboutSection/>
       <GalleryPresentationSection/>
       <FaqSection/>
+      <Agenda/>
       <Footer/>
     </main>
   );

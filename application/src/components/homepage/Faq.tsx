@@ -23,7 +23,7 @@ export default function CardsAboutSection({ className, data }: IFaqProps): JSX.E
                     <BiChevronUp className="h-12 w-12 text-gray-50" />
                 )}
             </button>
-            <p className={`text-lg text-left lg:py-4 lg:px-8 ${clickArrow ? "hidden" : "block"}`}>{answer}</p>
+            <p className={`text-base lg:text-lg text-left lg:py-4 lg:px-8 ${clickArrow ? "hidden" : "block"}`}>{answer}</p>
         </div>
     );
 }
