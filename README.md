@@ -1,6 +1,6 @@
 ### Olá, pessoal! 👋🏻
 
-Meu nome é Mateus Dias e estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.
+Meu nome é Mateus Dias, sou profissional com formação em Tecnologia em Análise e Desenvolvimento de Sistemas, atualmente, estou aprimorando meus conhecimentos e expandindo meu horizonte no MBA em Data Science and Analytics na ESALQ-USP, onde me dedico a explorar as fronteiras da análise de dados e da inteligência artificial.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-hilario-dias-2602901aa/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusilariodias@gmail.com?subject=Resposta%20de%20candidatura&body=Olá,%20tudo%20bem?%0D%0A%0D%0AEstou...)
