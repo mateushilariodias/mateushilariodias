@@ -30,7 +30,7 @@ Meu nome é Mateus Dias, sou profissional com formação em Tecnologia em Análi
 <hr/>
 
 ### Último repositório
-- [Sistema escolar que proporciona a gestão da vida acadêmica dos alunos](https://github.com/mateushilariodias/school)
+- [Site que contém os portfólios de Mateus Hilário Dias, de acordo com as suas respectivas áreas](https://github.com/mateushilariodias/portfolios)
 
 <!--
 
